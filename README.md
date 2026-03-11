@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[![Program](https://img.shields.io/badge/⚡%20Program-Agentic%20AI%20Engineering-0ea5e9?style=for-the-badge)](.)&nbsp;
-[![Duration](https://img.shields.io/badge/🗓%20Duration-40–42%20Weeks-7c3aed?style=for-the-badge)](.)&nbsp;
-[![Level](https://img.shields.io/badge/📈%20Level-Beginner%20→%20Advanced-059669?style=for-the-badge)](.)&nbsp;
-[![Python](https://img.shields.io/badge/🐍%20Python-3.11+-3b82f6?style=for-the-badge&logo=python&logoColor=white)](.)&nbsp;
-[![Modules](https://img.shields.io/badge/📦%20Modules-11%20Total-f59e0b?style=for-the-badge)](.)&nbsp;
-[![SMIT](https://img.shields.io/badge/🏛%20SMIT-smit.edu.pk-dc2626?style=for-the-badge)](https://smit.edu.pk/)
+![Program](https://img.shields.io/badge/⚡%20Program-Agentic%20AI%20Engineering-0ea5e9?style=for-the-badge)&nbsp;
+![Duration](https://img.shields.io/badge/🗓%20Duration-40–42%20Weeks-7c3aed?style=for-the-badge)&nbsp;
+![Level](https://img.shields.io/badge/📈%20Level-Beginner%20→%20Advanced-059669?style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/🐍%20Python-3.11+-3b82f6?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Modules](https://img.shields.io/badge/📦%20Modules-11%20Total-f59e0b?style=for-the-badge)&nbsp;
+[![SMIT](https://img.shields.io/badge/🏛%20SMIT-smit-dc2626?style=for-the-badge)](https://www.saylanimit.com/)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-**Built with ❤️ by [Syed Shah Meer Ali](https://github.com/) for [Saylani Mass IT Training Program — SMIT](https://smit.edu.pk/)**
+**Built with ❤️ by [Syed Shah Meer Ali](https://www.linkedin.com/in/syedshahmeerali/) for [Saylani Mass IT Training Program — SMIT](https://www.saylanimit.com/)**
 
 </div>
 
@@ -739,9 +739,9 @@ cd agentic-ai-engineering/module-00-foundations
 
 **Built with ❤️ by Syed Shah Meer Ali**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@syedshahimeerali-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)&nbsp;
-[![SMIT](https://img.shields.io/badge/SMIT-smit.edu.pk-dc2626?style=for-the-badge)](https://smit.edu.pk/)
+[![GitHub](https://img.shields.io/badge/GitHub-@shahmeersensei-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahmeersensei)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedshahmeerali/)&nbsp;
+[![SMIT](https://img.shields.io/badge/SMIT-dc2626?style=for-the-badge)](https://www.saylanimit.com/)
 
 <br/>
 
