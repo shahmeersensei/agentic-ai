@@ -50,6 +50,31 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 ---
 
 ## 🗺️ Program Roadmap
+
+> 📸 **Open [`roadmap.html`](./roadmap.html) in your browser to see the full interactive visual roadmap with hover effects.**
+> Or view the static version below:
+
+```
+  🟢 FOUNDATION                🔵 CORE AI
+  ──────────────               ──────────────
+  M0 · Python Basics           M2 · AI Foundations
+  M1 · Programming for AI      M3 · Prompt Engineering + RAG
+         │                            │
+         └──────────┬─────────────────┘
+                    ▼
+  🟣 APPLICATION               🟠 AGENTS
+  ──────────────               ──────────────
+  M4 · LLM App Dev             M5 · Agent Development
+  M7 · AI Native Dev           M6 · Multi-Agent Systems
+         │                            │
+         └──────────┬─────────────────┘
+                    ▼
+  🔴 INFRASTRUCTURE            🏆 CAPSTONE
+  ──────────────               ──────────────
+  M8 · AI System Design   ──►  M10 · Final Project
+  M9 · DevOps & Cloud          Build · Deploy · Present
+```
+
 ---
 
 ## 📋 Module Overview
