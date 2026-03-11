@@ -97,7 +97,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 <br/>
 
-## 🟢 Module 0 — Foundations for Absolute Beginners
+## 🟢 Module 0 — Foundations for Absolute Beginners AI-101
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🟢 Foundation</td><td><b>Rating</b></td><td>⭐ 8.2 / 10</td></tr>
@@ -146,7 +146,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🟢 Module 1 — Programming Foundations for AI
+## 🟢 Module 1 — Programming Foundations for AI AI-151
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🟢 Foundation</td><td><b>Rating</b></td><td>⭐ 8.7 / 10</td></tr>
@@ -192,7 +192,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🔵 Module 2 — AI Foundations
+## 🔵 Module 2 — AI Foundations AI-201
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🔵 Core AI</td><td><b>Rating</b></td><td>⭐ 8.5 / 10</td></tr>
@@ -244,7 +244,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🔵 Module 3 — Prompt & Context Engineering
+## 🔵 Module 3 — Prompt & Context Engineering AI-251
 
 <table>
 <tr><td><b>Duration</b></td><td>3 Weeks</td><td><b>Track</b></td><td>🔵 Core AI</td><td><b>Rating</b></td><td>⭐ 9.1 / 10</td></tr>
@@ -292,7 +292,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🟣 Module 4 — LLM Application Development
+## 🟣 Module 4 — LLM Application Development AI-321
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🟣 Application</td><td><b>Rating</b></td><td>⭐ 8.9 / 10</td></tr>
@@ -339,7 +339,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🟠 Module 5 — Agent Development
+## 🟠 Module 5 — Agent Development AI-351-A
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🟠 Agents</td><td><b>Rating</b></td><td>⭐ 9.0 / 10</td></tr>
@@ -388,7 +388,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🟠 Module 6 — Multi-Agent Systems
+## 🟠 Module 6 — Multi-Agent Systems AI-351-B
 
 <table>
 <tr><td><b>Duration</b></td><td>3 Weeks</td><td><b>Track</b></td><td>🟠 Agents</td><td><b>Rating</b></td><td>⭐ 8.6 / 10</td></tr>
@@ -437,7 +437,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🟣 Module 7 — AI Native Development
+## 🟣 Module 7 — AI Native Development AI-451
 
 <table>
 <tr><td><b>Duration</b></td><td>3 Weeks</td><td><b>Track</b></td><td>🟣 Application</td><td><b>Rating</b></td><td>⭐ 8.3 / 10</td></tr>
@@ -486,7 +486,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🔴 Module 8 — AI System Design
+## 🔴 Module 8 — AI System Design AI-452
 
 <table>
 <tr><td><b>Duration</b></td><td>3 Weeks</td><td><b>Track</b></td><td>🔴 Infrastructure</td><td><b>Rating</b></td><td>⭐ 8.8 / 10</td></tr>
@@ -533,7 +533,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🔴 Module 9 — AI Infrastructure & DevOps
+## 🔴 Module 9 — AI Infrastructure & DevOps AI-453
 
 <table>
 <tr><td><b>Duration</b></td><td>3 Weeks</td><td><b>Track</b></td><td>🔴 Infrastructure</td><td><b>Rating</b></td><td>⭐ 8.4 / 10</td></tr>
@@ -584,7 +584,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ---
 
-## 🏆 Module 10 — Capstone Project
+## 🏆 Module 10 — Capstone Project AI-501
 
 <table>
 <tr><td><b>Duration</b></td><td>4 Weeks</td><td><b>Track</b></td><td>🏆 Capstone</td><td><b>Rating</b></td><td>⭐ 9.3 / 10</td></tr>
