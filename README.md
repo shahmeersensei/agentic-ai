@@ -51,8 +51,7 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 
 ## 🗺️ Program Roadmap
 
-> 📸 **Open [`roadmap.html`](./roadmap.html) in your browser to see the full interactive visual roadmap with hover effects.**
-> Or view the static version below:
+> 📸 View the static version below:
 
 ```
   🟢 FOUNDATION                🔵 CORE AI
