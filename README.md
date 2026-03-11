@@ -475,9 +475,8 @@ This is the **official course repository** for the **Agentic AI Engineering Prog
 | Framework | Architecture | Best For |
 |-----------|-------------|----------|
 | **LangChain** | Chain-based | Flexible, composable LLM pipelines |
-| **LangGraph** | Graph/state machine | Complex stateful, cyclical agent flows |
 | **CrewAI** | Role-based teams | Multi-agent collaboration with clear roles |
-| **AutoGen** | Conversational | Research-style multi-agent conversations |
+
 
 - How to evaluate and choose the right framework
 - Managing breaking changes across framework versions
